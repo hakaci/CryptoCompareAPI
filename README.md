@@ -1,3 +1,4 @@
+# Crypto Compare API
 ## Intro
 A lightweight Python script to fetch historical cryptocurrency data (OHLCV) from CryptoCompare API and export it to clean, ready-to-analyze CSV files.
 ## How to run
